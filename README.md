@@ -37,12 +37,6 @@ const vajkyy = {
 
 <br><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=Contributions+Graph" alt="Typing SVG" /><br/>
-
-<img src="https://github.com/Vajkyy/Vajkyy/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
-
-<br><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=GitHub+Stats" alt="Typing SVG" /><br/>
 
 <div align="center">
