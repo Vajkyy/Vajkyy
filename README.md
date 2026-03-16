@@ -1,7 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00B4FF&center=true&vCenter=true&width=500&lines=Diák+Fejlesztő;Tanulás+közben;Jövő+Builder;Üdvözöl+az+én+GitHub+világomban!" alt="Typing SVG" /><br/>
 
 <p align="center">
-  <img src="profile-3d-contrib/snake.svg" width="100%" alt="Snake animation" />
+  <img src="https://github.com/Vajkyy/Vajkyy/raw/main/profile-3d-contrib/snake.svg" width="100%" alt="Snake animation" />
 </p>
 
 <br><br/>
@@ -39,7 +39,7 @@ const vajkyy = {
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=Contributions+Graph" alt="Typing SVG" /><br/>
 
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
+<img src="https://github.com/Vajkyy/Vajkyy/raw/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D Contribution Graph" />
 
 <br><br/>
 
