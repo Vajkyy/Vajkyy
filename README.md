@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00B4FF&center=true&vCenter=true&width=500&lines=Diák+Fejlesztő;Tanulás+közben;Jövő+Builder;Üdvözöl+az+én+GitHub+világomban!" alt="Typing SVG" /><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=00B4FF&center=true&vCenter=true&width=500&lines=Diák+Fejlesztő;Tanulás+közben;Jövő+Builder;Üdvözöl+az+én+GitHub+világomban!" alt="Typing SVG" /><br/>
 
 <p align="center">
   <img src="https://github.com/Vajkyy/Vajkyy/raw/main/profile-3d-contrib/snake.svg" width="100%" alt="Snake animation" />
@@ -6,7 +6,7 @@
 
 <br><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=Rólam" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=Rólam" alt="Typing SVG" />
 
 ```typescript
 const vajkyy = {
@@ -21,7 +21,7 @@ const vajkyy = {
 
 <br><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=Tech+Stack" alt="Typing SVG" /><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=Tech+Stack" alt="Typing SVG" /><br/>
 
 <div align="center">
 
@@ -37,7 +37,7 @@ const vajkyy = {
 
 <br><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=GitHub+Stats" alt="Typing SVG" /><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=GitHub+Stats" alt="Typing SVG" /><br/>
 
 <div align="center">
 
@@ -49,7 +49,7 @@ const vajkyy = {
 
 <br><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=Dev+Idézetek" alt="Typing SVG" /><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=Dev+Idézetek" alt="Typing SVG" /><br/>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -57,7 +57,7 @@ const vajkyy = {
 
 <br><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=Tanulási+Roadmap" alt="Typing SVG" /><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=Tanulási+Roadmap" alt="Typing SVG" /><br/>
 
 ```
 🌟 FEJLESZTÉSI ÚT 🌟
@@ -80,7 +80,7 @@ const vajkyy = {
 
 <br><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=Maradj+kapcsolatban" alt="Typing SVG" /><br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=38&duration=30&pause=10000&color=00B4FF&center=true&vCenter=true&width=500&lines=Maradj+kapcsolatban" alt="Typing SVG" /><br/>
 
 <div align="center">
 
@@ -99,6 +99,6 @@ const vajkyy = {
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=500&color=00B4FF&center=true&vCenter=true&width=400&lines=Thank+you+for+visiting!;Keep+coding!;Stay+awesome!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=500&color=00B4FF&center=true&vCenter=true&width=400&lines=Thank+you+for+visiting!;Keep+coding!;Stay+awesome!" alt="Typing SVG" />
 
 </div>
